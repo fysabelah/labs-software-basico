@@ -1,0 +1,14 @@
+### VisualStudioCode ###
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+### Assembler e C ###
+*.exe
+*.o
+*.obj
+*.bc
+
+### Ignorar arquivos pdf
+*.pdf
